@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Rosmaine Nkouankam] 👋
 
-<!--
-**kay-bit237/kay-bit237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **SOC Analyst** — front-line defender monitoring alerts, investigating threats, and keeping incidents contained.
 
-Here are some ideas to get you started:
+## What I Do
+- 🔍 Alert triage, log review & threat investigation
+- ⚡ Incident response & escalation
+- 🎯 Detection tuning & false positive reduction
+- ☁️ Cloud security (Azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools
+`Splunk` `EDR` `KnowBe4` `ServiceNow` `Azure` `MITRE ATT&CK` `TCP/IP`
+
+## Frameworks & Compliance
+`PCI-DSS` `NIST 800-53` `ISO 27001`
+
+## Threats I Hunt
+Phishing · Smishing · Ransomware · Social Engineering · Trojans · DoS
+
+## Outside of Work
+🎾 Tennis; 📚 Reading; 🤝 Community Volunteering; 🔎 Keeping up with the latest cyber threats
+
+---
+*"Stay alert, stay secure."*
