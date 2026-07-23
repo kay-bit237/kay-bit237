@@ -1,6 +1,6 @@
-# Hi, I'm [Rosmaine Nkouankam] 👋
+# Hi, I'm Rosmaine Nkouankam 👋
 
-🛡️ **SOC Analyst** — front-line defender monitoring alerts, investigating threats, and keeping incidents contained.
+🛡️ **SOC Analyst** front-line defender monitoring alerts, investigating threats, and keeping incidents contained.
 
 ## What I Do
 - 🔍 Alert triage, log review & threat investigation
