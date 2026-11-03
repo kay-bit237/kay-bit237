@@ -17,7 +17,7 @@ All testing documented here was performed in personal lab environments that I ow
 Built a complete detection and response workflow using Microsoft Defender, Microsoft Sentinel, and Log Analytics, from data collection through to containment.
 
 * Configured continuous export from Defender for Cloud to a Log Analytics workspace
-* Enabled full Windows security event collection and installed the Windows Security Events solution from the Sentinel Content Hub
+* Enabled full Windows security event collection and installed the Windows Security Events solution from the Sentine l Content Hub
 * Built a custom Sentinel analytics rule to detect repeated failed logon attempts, which triggered 16+ alerts
 * Investigated a real Defender XDR incident using the incident graph and process tree analysis
 * Traced an unexpected outbound connection from `notepad.exe` and validated the remote IP in VirusTotal
@@ -143,14 +143,7 @@ Phishing, smishing, social engineering, brute force attacks, ransomware, trojans
 
 <br>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kay-bit237&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay-bit237&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<br>
 
 ## 🌟 Beyond the SOC
 
@@ -160,7 +153,7 @@ Tennis, reading, community volunteering, time with family, and staying current o
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/rosmaine-nkouankam/)
 
 <br>
 
