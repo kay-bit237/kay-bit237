@@ -26,7 +26,7 @@ Built a complete detection and response workflow using Microsoft Defender, Micro
 
 **Skills:** EDR, SIEM, detection engineering, incident investigation, threat intelligence, containment
 
-[View Project](https://github.com/kay-bit237/Defender-Brute-Force-Incident-Response)
+[View Project](https://github.com/kay-bit237/Defender-Brute-Force-Detection)
 
 <br>
 
